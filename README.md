@@ -106,6 +106,10 @@ The **Parallel Trends graph below** illustrates **auto theft rate trends in Cali
 
 The graph reinforces the statistical findings—California's auto theft rate **stopped declining at the same rate as Texas** post-2011, **supporting the idea that AB 109 impacted auto theft trends**.
 
+### **Full Discussion & Interpretation**  
+
+For a more detailed discussion of this study, including **background, methodology, parallel trends analysis, and policy implications**, please refer to the full report
+
 ---
 
 ## **Notes on Transparency**  
